@@ -32,8 +32,8 @@ layout: default
   <div>
     <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
 	{% include date-german.html date=page.date %}
-      Erstellt am: {{ page.date | date: "%d. %B %Y" }}
-	Letzte Aktualisierung: {{ page.last_modified_at | date: "%d. %B %Y" }}
+      Erstellt am {{ page.date | date: "%d. %B %Y um %H:%M Uhr" }}<br>
+	Letzte Aktualisierung am {{ page.last_modified_at | date: "%d. %B %Y um %H:%M Uhr" }}
       {% endif %}
     </time>
   </div>
