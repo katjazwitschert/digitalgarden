@@ -7,7 +7,7 @@ permalink: /
 # Hallo! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Ich bin Katja Evertz. Ich bin Digitalstrategin und Beraterin für digitale Kommunikation. Dieser digitale Garten ist ein Experiment, ein Archiv und eine Karte meiner Interessen, Notizen und Ideen. <a src="https://www.katjaevertz.de/ueber-katja-evertz/">Mehr über mich</a> gibt es <a src="https://www.katjaevertz.de">auf meiner persönlichen Website</a>
+  Ich bin Katja Evertz. Ich bin Digitalstrategin und Beraterin für digitale Kommunikation. Dieser digitale Garten ist ein Experiment, ein Archiv und eine Karte meiner Interessen, Notizen und Ideen. <a href="https://www.katjaevertz.de/ueber-katja-evertz/">Mehr über mich</a> gibt es <a href="https://www.katjaevertz.de">auf meiner persönlichen Website</a>
 </p>
 
 Dies ist mein digitaler Garten, in dem ich meine Ideen festhalte und daraus Gedanken und längere Texte wachsen lasse.
