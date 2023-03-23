@@ -5,17 +5,26 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Hallo! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  Ich bin Katja Evertz. Ich bin Digitalstrategin und Beraterin für digitale Kommunikation. Dieser digitale Garten ist ein Experiment, ein Archiv und eine Karte meiner Interessen, Notizen und Ideen. [Mehr über mich](https://www.katjaevertz.de/ueber-katja-evertz/) gibt es [auf meiner persönlichen Website}(https://www.katjaevertz.de/).
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+Dies ist mein digitaler Garten, in dem ich meine Ideen festhalte und daraus Gedanken und längere Texte wachsen lasse.
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+Dieser digitale Garten ist ein Work in Progress. Anders als im Blog steht jeder Inhalt hier für sich, nicht chronologisch, sondern vernetzt mit anderen Gedanken und Ideen. 
 
-<strong>Recently updated notes</strong>
+Ich möchte hier außerdem wichtige Links sammeln und eine persönliche Anlaufstelle für die Inhalte haben, die für mich wichtig sind.
+
+## Einstiegspunkte
+
+[[Das Prinzip der Faltung]]
+[[Warum wir Grenzen brauchen]]
+[[Zettelkasten]]
+[[Digital Gardens]]
+
+## Neueste Notizen
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
