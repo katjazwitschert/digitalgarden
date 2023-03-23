@@ -38,7 +38,3 @@ Den schlechten Ruf haben die Grenzen also gar nicht verdient. Und wir sollten vi
 ## Referenz / Quelle
 
 [[Die Faltung der Welt]]
-
----
-Notiz erstellt: `$= dv.current().file.ctime`
-Letzte Aktualisierung: `$= dv.current().file.mtime`

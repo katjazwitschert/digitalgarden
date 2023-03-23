@@ -1,14 +1,15 @@
 ---
-layout: page
-title: Home
-id: home
-permalink: /
+type: 'Index'
+status: 'final'
+alias:
+  - Startseite
+  - Mein digitaler Garten
 ---
 
 # Hallo! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Ich bin Katja Evertz. Ich bin Digitalstrategin und Beraterin für digitale Kommunikation. Dieser digitale Garten ist ein Experiment, ein Archiv und eine Karte meiner Interessen, Notizen und Ideen. [Mehr über mich](https://www.katjaevertz.de/ueber-katja-evertz/) gibt es [auf meiner persönlichen Website}(https://www.katjaevertz.de/).
+  Ich bin Katja Evertz. Ich bin Digitalstrategin und Beraterin für digitale Kommunikation. Dieser digitale Garten ist ein Experiment, ein Archiv und eine Karte meiner Interessen, Notizen und Ideen. <a src="https://www.katjaevertz.de/ueber-katja-evertz/">Mehr über mich</a> gibt es <a src="https://www.katjaevertz.de">auf meiner persönlichen Website</a>
 </p>
 
 Dies ist mein digitaler Garten, in dem ich meine Ideen festhalte und daraus Gedanken und längere Texte wachsen lasse.
@@ -19,24 +20,7 @@ Ich möchte hier außerdem wichtige Links sammeln und eine persönliche Anlaufst
 
 ## Einstiegspunkte
 
-[[Das Prinzip der Faltung]]
-[[Warum wir Grenzen brauchen]]
-[[Zettelkasten]]
-[[Digital Gardens]]
-
-## Neueste Notizen
-
-<ul>
-  {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
-  {% for note in recent_notes limit: 5 %}
-    <li>
-      {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ note.url }}">{{ note.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
+- [[Das Prinzip der Faltung]]
+- [[Warum wir Grenzen brauchen]]
+- [[Zettelkasten]]
+- [[Digital Gardens]]
