@@ -1,11 +1,9 @@
 ---
-type: 'Index'
-status: 'final'
-alias:
-  - Startseite
-  - Mein digitaler Garten
+layout: page
+title: Startseite
+id: home
+permalink: /
 ---
-
 # Hallo! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
