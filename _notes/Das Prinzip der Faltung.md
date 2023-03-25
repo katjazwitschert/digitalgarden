@@ -25,7 +25,7 @@ So entstehen neue und vielseitigere Systeme.
   
 Oder Lösungen und Ideen.  
   
-Wie beim Timeboxing und vielen Kreativmethoden, bei denen das gleiche Prinzip greift.  
+Wie beim [[Timeboxing]] und vielen [[Methoden|Kreativmethoden]], bei denen das gleiche Prinzip greift.  
   
 Grenzen generieren Wachstum, heißt es im Artikel.  
   
@@ -35,6 +35,7 @@ Den schlechten Ruf haben die Grenzen also gar nicht verdient. Und wir sollten vi
 
 [[Warum wir Grenzen brauchen]]
 
-## Referenz / Quelle
+## Quelle
 
-[[Die Faltung der Welt]]
+* Meine Zusammenfassung: [[Die Faltung der Welt]]
+* Link zum Artikel: [Die Faltung der Welt von Anders Levermann, FAZ](https://m.faz.net/aktuell/wissen/erde-klima/klimakrise-loesungen-durch-einen-mathematischen-blick-17422986.amp.html)

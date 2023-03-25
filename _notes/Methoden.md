@@ -2,7 +2,9 @@
 type: 'Index'
 status: 'final'
 alias:
-  - 
+  - Methode
+  - Kreativmethoden
+  - Kreativmethode
 ---
 # Methoden
 
@@ -18,5 +20,3 @@ Auf dieser Seite sammele ich verschiedene Kreativ- und Workshop-Methoden.
 
 
 ---
-Notiz erstellt: `$= dv.current().file.ctime`
-Letzte Aktualisierung: `$= dv.current().file.mtime`
