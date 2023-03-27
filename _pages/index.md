@@ -18,9 +18,6 @@ Ich möchte hier außerdem wichtige Links sammeln und eine persönliche Anlaufst
 
 ## Einstiegspunkte
 
-- [[Das Prinzip der Faltung]]
-- [[Methoden]]
-- [[Warum wir Grenzen brauchen]]
 - [[Über Zettelkasten]]
 - [[Digital Gardens]]
-- [[Lieblingszitate]]
+- [[Lesenswerte Newsletter]]
