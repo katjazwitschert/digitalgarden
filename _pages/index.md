@@ -21,5 +21,6 @@ Ich möchte hier außerdem wichtige Links sammeln und eine persönliche Anlaufst
 - [[Das Prinzip der Faltung]]
 - [[Methoden]]
 - [[Warum wir Grenzen brauchen]]
-- [[Zettelkasten]]
+- [[Über Zettelkasten]]
 - [[Digital Gardens]]
+- [[Lieblingszitate]]

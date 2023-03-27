@@ -8,8 +8,6 @@ alias:
 dg-publish: false
 ---
 
-# Fünf-Warum-Methode
-
 ## Kerngedanke
 Die Five Whys sind eine [[Methoden|Methode]] zur Zieldefinition. Sie hilft dabei, die Motivation hinter einer Zielsetzung besser zu erkennen und der tatsächlichen Zielsetzung näher zu kommen.
 

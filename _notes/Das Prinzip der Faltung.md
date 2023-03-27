@@ -6,14 +6,12 @@ alias:
   - Faltungsprinzip
 ---
 
-# Das Prinzip der Faltung
-
 ## Kerngedanke
 Grenzen nehmen wir oft negativ wahr. Sie engen uns und unsere Freiheit ein.  
   
 Doch haben sie auch etwas Gutes. Denn begrenzte Systeme ermöglichen eine größere Vielfalt.  
   
-Das ist mein Fazit aus einem FAZ-Artikel. Der Titel machte mich neugierig: [[Die Faltung der Welt]]
+Das ist mein Fazit aus einem FAZ-Artikel. Der Titel machte mich neugierig: [[Artikel - Levermann - Die Faltung der Welt - 2021]]
   
 Meine Kurzzusammenfassung:  
   
@@ -37,5 +35,5 @@ Den schlechten Ruf haben die Grenzen also gar nicht verdient. Und wir sollten vi
 
 ## Quelle
 
-* Meine Zusammenfassung: [[Die Faltung der Welt]]
+* Meine Zusammenfassung: [[Artikel - Levermann - Die Faltung der Welt - 2021]]
 * Link zum Artikel: [Die Faltung der Welt von Anders Levermann, FAZ](https://m.faz.net/aktuell/wissen/erde-klima/klimakrise-loesungen-durch-einen-mathematischen-blick-17422986.amp.html)
