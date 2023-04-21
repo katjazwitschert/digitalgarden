@@ -1,6 +1,7 @@
 $color-primary:hsl(8, 80%, 56%);
 $color-text:hsl(207, 98%, 18%);
 $color-subtext: 	hsl(140, 6%, 68%);
+$color-highlight:	hsl(58, 100%, 66%);
 $color-border:	hsl(210, 14%, 95%);
 $color-box-background: mix($color-primary, white, 4%);
 $border-radius: 4px;
@@ -82,8 +83,8 @@ a {
   border-bottom: 1px solid $color-border;
   color: $color-primary;
   &:hover {
-    color: black !important;
-    background: #fffaf1;
+    color: $color-primary !important;
+    background: $color-highlight;
   }
   &:after {
     position: relative;
