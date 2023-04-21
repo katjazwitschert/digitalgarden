@@ -1,7 +1,12 @@
 ---
 layout: page
 title: Startseite
+description: 
 id: home
+updated: "2023-04-09"
+startDate: "2023-03-15"
+type: "page"
+status: "published"
 permalink: /
 ---
 # Hallo! 🌱
@@ -19,5 +24,5 @@ Ich möchte hier außerdem wichtige Links sammeln und eine persönliche Anlaufst
 ## Einstiegspunkte
 
 - [[Über Zettelkasten]]
-- [[Digital Gardens]]
+- [[Der digitale Garten]]
 - [[Lesenswerte Newsletter]]
